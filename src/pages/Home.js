@@ -9,7 +9,7 @@ export default ({ members, events }) => (
   <Grid container spacing={16} style={{ marginTop: 10 }}>
     <Grid item xs={12}>
       <EventDetail
-        title="Jakarta JS"
+        title="MadiunJS JS"
         location="Jakarta, Indonesia"
         members={200}
         organizer="Adhy Wiranata"
